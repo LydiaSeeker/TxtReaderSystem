@@ -15,6 +15,7 @@ public class Novel {
     @TableField(value = "author")
     private String author;
 
+
     public Integer getId() {
         return id;
     }
